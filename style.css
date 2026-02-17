@@ -9,7 +9,7 @@
 }
 
 body {
-  background: #b0a1a192;
+  background: #fdfdfd;
   color: #222;
   line-height: 1.6;
 }
@@ -30,7 +30,7 @@ body {
   position: sticky;
   top: 0;
   background: white;
-  box-shadow: 0 18px 35px rgba(133, 160, 119, 0.604);
+  box-shadow: 0 18px 35px rgba(170, 177, 180, 0.858);
   z-index: 100;
 }
 
@@ -49,7 +49,7 @@ nav a {
 }
 
 nav a:hover {
-  color: #1e4c97c1;
+  color: #095fea;
 }
 
 /* ===========================
@@ -86,7 +86,7 @@ nav a:hover {
 }
 
 .btn:hover {
-  background: #4d679ddf;
+  background: #4d669d;
   transform: scale(1.05);
 }
 
@@ -124,7 +124,7 @@ nav a:hover {
   background: #ffffff;
   padding: 25px;
   border-radius: 15px;
-  box-shadow: 0 18px 35px rgba(177, 128, 128, 0.727);
+  box-shadow: 0 18px 35px rgba(251, 251, 251, 0.727);
   transition: transform 0.4s cubic-bezier(0.4,0,0.2,1),
               box-shadow 0.4s ease,
               background 0.4s ease;
